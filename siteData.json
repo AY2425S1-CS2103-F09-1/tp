@@ -7,6 +7,8 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
+        "low-xi-si": "Low Xi Si",
+        "chua-tse-hui": "Chua Tse Hui",
         "winston-jin": "Winston Jin",
         "wu-zengfu": "Wu Zengfu",
         "ernest-yu": "Ernest Yu"
@@ -135,6 +137,14 @@
     },
     {
       "src": "team/johndoe.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/lowxisi.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
