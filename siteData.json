@@ -72,7 +72,9 @@
         "gui-components": "GUI Components",
         "additional-notes": "Additional Notes",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements",
-        "advanced-error-messages": "Advanced Error Messages"
+        "advanced-error-messages": "Advanced Error Messages",
+        "case-insensitivity-for-all-contact-fields": "Case Insensitivity for All Contact Fields",
+        "display-index-of-newly-added-contact": "Display Index of Newly Added Contact"
       },
       "headingKeywords": {}
     },
