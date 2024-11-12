@@ -166,6 +166,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/cth06-github.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-data-conductors": "Project: data_coNdUctorS"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/johndoe.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
