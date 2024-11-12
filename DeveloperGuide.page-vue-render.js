@@ -521,6 +521,6 @@ with(this){return _c('h3',{attrs:{"id":"achievements"}},[_v("Achievements"),_c('
 with(this){return _c('ul',[_c('li',[_v("Realistic Goal Setting and Achievement: Although we didn't add an extensive list of features, we set realistic project goals and are proud to have met them. This includes valuable learning outcomes, such as mastering GitHub for version control, exploring IntelliJ’s integrated tools, and learning how to collaborate effectively on a software project as a team.")]),_v(" "),_c('li',[_v("Skill Development: Our work on this project allowed each team member to grow technically and collaboratively, strengthening our foundational skills in Java, JavaFX, and project management practices.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 11:24:28 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 11:27:21 GMT+8]")])])])}
 }];
   
