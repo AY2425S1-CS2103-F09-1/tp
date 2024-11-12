@@ -76,7 +76,12 @@
         "appendix-planned-enhancements": "Appendix: Planned Enhancements",
         "advanced-error-messages": "Advanced Error Messages",
         "case-insensitivity-for-all-contact-fields": "Case Insensitivity for All Contact Fields",
-        "display-index-of-newly-added-contact": "Display Index of Newly Added Contact"
+        "display-index-of-newly-added-contact": "Display Index of Newly Added Contact",
+        "appendix-effort": "Appendix: Effort",
+        "difficulty-level": "Difficulty Level",
+        "challenges-faced": "Challenges Faced",
+        "effort-required": "Effort Required",
+        "achievements": "Achievements"
       },
       "headingKeywords": {}
     },
